@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @That1Sk8erKid
+- 👋 Hi, I’m @That1sk8rkid
 - 👀 I’m interested in ... Game Design and development 
 - 🌱 I’m currently learning ... c# and javaScript
 - 💞️ I’m looking to collaborate on ... Just learning how to make games in general 
